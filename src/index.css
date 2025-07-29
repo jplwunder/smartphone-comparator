@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #fdfbf8;
+  color: #4b4b4b;
+}
+.filter-btn {
+  transition: all 0.2s ease-in-out;
+  border: 1px solid #dcdcdc;
+}
+.filter-btn.active {
+  background-color: #e6a47a;
+  color: #ffffff;
+  border-color: #e6a47a;
+}
+.brand-card {
+  transition: all 0.3s ease-in-out;
+  border: 1px solid #ededed;
+}
+.brand-card.highlight {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  border-color: #e6a47a;
+}
+.brand-card.dimmed {
+  opacity: 0.4;
+  filter: grayscale(80%);
+}
+.tab-btn {
+  transition: color 0.2s, border-color 0.2s;
+}
+.tab-btn.active {
+  color: #bf7245;
+  border-bottom-color: #bf7245;
+}
+.chart-container {
+  position: relative;
+  width: 100%;
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 320px;
+  max-height: 40vh;
+}
+@media (min-width: 768px) {
+  .chart-container {
+    height: 400px;
+  }
+}
+
+/* Line clamp utility for text truncation */
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
