@@ -55,7 +55,7 @@ export const phoneData: PhoneData = {
       // Samsung
       {
         name: "Samsung Galaxy S25 Ultra",
-        image_link: "assets/images/phones/samsung/galaxy_S25_ultra.avif", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_S25_ultra.avif", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Samsung/fichas-tecnicas/n10692/Samsung-Galaxy-S25-Ultra.html",
         description: `<p class="text-gray-700">
@@ -85,7 +85,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy S24 Ultra",
-        image_link: "assets/images/phones/samsung/galaxy_S24_ultra.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_S24_ultra.jpg", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Samsung/fichas-tecnicas/n10692/Samsung-Galaxy-S24-Ultra.html",
         description: `<p class="text-gray-700">
@@ -112,7 +112,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy S25+",
-        image_link: "assets/images/phones/samsung/galaxy_S25_plus.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_S25_plus.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy S25+</strong> é um "intermediário de ponta" da linha Galaxy S25, oferecendo muitos recursos avançados.
@@ -138,7 +138,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy S24+",
-        image_link: "assets/images/phones/samsung/galaxy_S24_plus.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_S24_plus.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy S24+</strong> é um celular topo de linha ideal para <strong>fotografia e criadores de conteúdo</strong>.
@@ -164,7 +164,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy Z Fold 6",
-        image_link: "assets/images/phones/samsung/galaxy_zfold_6.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_zfold_6.jpg", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Samsung/fichas-tecnicas/n10692/Samsung-Galaxy-Z-Fold-6.html",
         description: `<p class="text-gray-700">
@@ -194,7 +194,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy Z Flip 6",
-        image_link: "assets/images/phones/samsung/galaxy_zflip_6.png", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_zflip_6.png", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Samsung/fichas-tecnicas/n10692/Samsung-Galaxy-Z-Flip-6.html",
         description: `<p class="text-gray-700">
@@ -221,7 +221,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy A55 5G",
-        image_link: "assets/images/phones/samsung/galaxy_A55.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_A55.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy A55 5G</strong> é um dos <strong>melhores celulares custo-benefício</strong> da Samsung em 2025, oferecendo experiência premium a preço de intermediário.
@@ -250,7 +250,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy A56 5G",
-        image_link: "assets/images/phones/samsung/galaxy_A56.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_A56.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy A56 5G</strong> é um <strong>intermediário premium equilibrado</strong> para 2025.
@@ -276,7 +276,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy A36 5G",
-        image_link: "assets/images/phones/samsung/galaxy_A36.avif", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_A36.avif", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy A36 5G</strong> é ideal para quem busca <strong>bom desempenho e preço acessível</strong>.
@@ -302,7 +302,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy A06",
-        image_link: "assets/images/phones/samsung/galaxy_A06.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_A06.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy A06</strong> é um modelo básico e acessível dentro do portfólio da Samsung.
@@ -325,7 +325,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy A16 5G",
-        image_link: "assets/images/phones/samsung/galaxy_A16.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_A16.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy A16 5G</strong> é uma das melhores opções de celular 5G na faixa de R$ 1.000 para fãs da Samsung.
@@ -354,7 +354,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy S25 5G",
-        image_link: "assets/images/phones/samsung/galaxy_S25.avif", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_S25.avif", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy S25 5G</strong> é um celular topo de linha que oferece <strong>melhor desempenho e processamento</strong> em relação ao seu antecessor.
@@ -380,7 +380,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Samsung Galaxy S24 FE",
-        image_link: "assets/images/phones/samsung/galaxy_S24FE.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/samsung/galaxy_S24FE.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Samsung Galaxy S24 FE (Fan Edition)</strong> é um <strong>top de linha</strong> dentro da série Galaxy S e considerado uma <strong>opção de ótimo custo-benefício</strong>. Geralmente custa em torno de <strong>R$ 2.500</strong>, podendo ser encontrado por <strong>R$ 2.699 na versão de 128 GB</strong>, sendo uma escolha única e recomendada na faixa de R$ 2.000 a R$ 3.000, especialmente em promoções.
@@ -442,7 +442,7 @@ export const phoneData: PhoneData = {
       // Apple
       {
         name: "Apple iPhone 16 Pro Max",
-        image_link: "assets/images/phones/apple/iphone_16_pro_max.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/apple/iphone_16_pro_max.jpg", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Apple/fichas-tecnicas/n10692/Apple-iPhone-16-Pro-Max.html",
         description: `<p class="text-gray-700">
@@ -475,7 +475,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Apple iPhone 16",
-        image_link: "assets/images/phones/apple/iphone_16.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/apple/iphone_16.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Apple iPhone 16</strong> é considerado o <strong>melhor smartphone geral</strong>, sendo um update agradável à fórmula vencedora da Apple.
@@ -504,7 +504,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Apple iPhone 16e",
-        image_link: "assets/images/phones/apple/iphone_16e.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/apple/iphone_16e.jpg", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Apple/fichas-tecnicas/n10692/Apple-iPhone-16e.html",
         description: `<p class="text-gray-700">
@@ -534,7 +534,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Apple iPhone 16 Plus",
-        image_link: "assets/images/phones/apple/iphone_16_plus.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/apple/iphone_16_plus.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Apple iPhone 16 Plus</strong> é o "ponto ideal" da linha de 2024 da Apple, destacando-se pela <strong>maior duração de bateria</strong> entre os iPhones testados.
@@ -563,7 +563,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Apple iPhone 15",
-        image_link: "assets/images/phones/apple/iphone_15.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/apple/iphone_15.jpg", // Placeholder image
         reviews_links:
           "https://www.techtudo.com.br/review/iphone-15-review.html",
         description: `<p class="text-gray-700">
@@ -593,7 +593,7 @@ export const phoneData: PhoneData = {
       },
       // {
       //   name: "Apple iPhone 13",
-      //   image_link: "/assets/images/phones/iphone_13.png", // Placeholder image
+      //   image_link: "/https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/iphone_13.png", // Placeholder image
       //   reviews_links: "#", // No specific review link provided in sources
       //   description: `<p class="text-gray-700">
       //     O <strong>Apple iPhone 13</strong> é o <strong>melhor iPhone custo-benefício</strong> atualmente, perfeito para criar conteúdos e postar em redes sociais.
@@ -651,7 +651,7 @@ export const phoneData: PhoneData = {
       // Samsung
       {
         name: "Motorola Moto G85",
-        image_link: "assets/images/phones/motorola/moto_g85.png", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_g85.png", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Motorola Moto G85</strong> é um smartphone intermediário básico que se destaca pelo seu <strong>design premium</strong> e <strong>tela de qualidade</strong>.
@@ -677,7 +677,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Motorola Edge 50 Ultra",
-        image_link: "assets/images/phones/motorola/moto_edge_50ultra.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_edge_50ultra.webp", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Motorola/fichas-tecnicas/n10692/Motorola-Edge-50-Ultra.html",
         description: `<p class="text-gray-700">
@@ -710,7 +710,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Motorola Moto G35",
-        image_link: "assets/images/phones/motorola/moto_g35.png", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_g35.png", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Motorola/fichas-tecnicas/n10692/Motorola-Moto-G35.html", // Example from source
         description: `<p class="text-gray-700">
@@ -740,7 +740,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Motorola Moto G75",
-        image_link: "assets/images/phones/motorola/moto_g75.png", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_g75.png", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Motorola Moto G75</strong> se destaca por seu <strong>bom hardware, tela muito bonita e construção interessante</strong>, com um preço competitivo (pouco mais de R$1400).
@@ -772,7 +772,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Motorola Edge 60 Pro 5G",
-        image_link: "assets/images/phones/motorola/moto_edge_60_pro.png", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_edge_60_pro.png", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           Do portfólio da Motorola, o <strong>Motorola Edge 60 Pro 5G</strong> é um destaque que entrega <strong>design sofisticado</strong> com corpo curvado, certificações <strong>IP68 e IP69</strong> e padrão militar.
@@ -798,7 +798,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Motorola Moto G56 5G",
-        image_link: "assets/images/phones/motorola/moto_g56.png", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_g56.png", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           A tradicional linha Moto G está entre as queridinhas dos brasileiros, e o <strong>Motorola Moto G56 5G</strong> é uma das melhores opções do portfólio da marca que alia <strong>desempenho confiável e preços mais em conta</strong>.
@@ -824,7 +824,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Motorola Edge 50 Neo",
-        image_link: "assets/images/phones/motorola/moto_edge_50neo.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_edge_50neo.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Motorola Edge 50 Neo</strong> se destaca pelo seu <strong>design com ultrarresistência militar</strong> e <strong>certificação IP68</strong>, suportando imersão de até 1.5 metro por 30 minutos.
@@ -853,7 +853,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Motorola Edge 40 Neo",
-        image_link: "assets/images/phones/motorola/moto_edge_40_neo.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/motorola/moto_edge_40_neo.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Motorola Edge 40 Neo</strong> é um dos Motorola mais avançados e potentes, com <strong>certificação IP68</strong> de resistência à água e poeira.
@@ -904,7 +904,7 @@ export const phoneData: PhoneData = {
     phone_models: [
       {
         name: "Xiaomi Redmi Note 14 4G",
-        image_link: "assets/images/phones/xiaomi/xiaomi_14T.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/xiaomi/xiaomi_14T.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Xiaomi Redmi Note 14 4G</strong> é o <strong>melhor custo-benefício de 2025</strong>, ideal para navegar na internet, usar redes sociais e tirar fotos sem gastar muito.
@@ -933,7 +933,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Xiaomi Redmi Note 14 Pro 5G",
-        image_link: "assets/images/phones/xiaomi/redmi_note_14_pro_5g.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/xiaomi/redmi_note_14_pro_5g.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Xiaomi Redmi Note 14 Pro 5G</strong> é um smartphone intermediário premium, considerado uma das melhores opções de custo-benefício.
@@ -962,7 +962,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Xiaomi 15 Pro",
-        image_link: "assets/images/phones/xiaomi/xiaomi_15_pro.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/xiaomi/xiaomi_15_pro.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Xiaomi 15 Pro</strong> é o <strong>melhor Xiaomi</strong> na lista de 2025, destacando-se por sua eficiência energética e desempenho superior.
@@ -988,7 +988,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Xiaomi POCO X7 Pro 5G",
-        image_link: "assets/images/phones/xiaomi/xiaomi_poco_x7_pro_5g.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/xiaomi/xiaomi_poco_x7_pro_5g.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Xiaomi POCO X7 Pro 5G</strong> é um dos <strong>melhores celulares para jogos</strong> em 2025, combinando potência, qualidade de tela e longa duração de bateria.
@@ -1014,7 +1014,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Xiaomi POCO X6 Pro 5G",
-        image_link: "assets/images/phones/xiaomi/xiaomi_poco_x6_pro.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/xiaomi/xiaomi_poco_x6_pro.jpg", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           O <strong>Xiaomi POCO X6 Pro 5G</strong> é um modelo versátil ideal para qualquer tipo de uso, incluindo jogos, fotos e filmes.
@@ -1043,7 +1043,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Xiaomi Redmi Note 13 Pro 5G",
-        image_link: "assets/images/phones/xiaomi/xiaomi_redmi_note_13_pro.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/xiaomi/xiaomi_redmi_note_13_pro.jpg", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/reviews/n219355/Review-Xiaomi-Redmi-Note-13-Pro-5G.html",
         description: `<p class="text-gray-700">
@@ -1070,7 +1070,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Xiaomi 14T",
-        image_link: "assets/images/phones/xiaomi/xiaomi_14T.jpg", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/xiaomi/xiaomi_14T.jpg", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Xiaomi/fichas-tecnicas/n10692/Xiaomi-14T.html",
         description: `<p class="text-gray-700">
@@ -1122,7 +1122,7 @@ export const phoneData: PhoneData = {
     phone_models: [
       {
         name: "Asus ROG Phone 8 Pro",
-        image_link: "assets/images/phones/asus/rog_phone_8_pro.png", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/asus/rog_phone_8_pro.png", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/Asus/fichas-tecnicas/n10692/Asus-ROG-Phone-8-Pro.html",
         description: `<p class="text-gray-700">
@@ -1155,7 +1155,7 @@ export const phoneData: PhoneData = {
       },
       {
         name: "Asus ROG Phone 7",
-        image_link: "assets/images/phones/asus/rog_phone_7.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/asus/rog_phone_7.webp", // Placeholder image
         reviews_links: "#", // No specific review link provided in sources
         description: `<p class="text-gray-700">
           Para os gamers, o <strong>Asus ROG Phone 7</strong> é um dos melhores celulares topo de linha em 2024, projetado para oferecer uma <strong>experiência de jogo fluida</strong>.
@@ -1180,7 +1180,7 @@ export const phoneData: PhoneData = {
       // Realme (Added based on available data and relevance as a top brand)
       // {
       //   name: "Realme GT7",
-      //   image_link: "/assets/images/phones/realme_gt7.png", // Placeholder image
+      //   image_link: "/https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/realme_gt7.png", // Placeholder image
       //   reviews_links: "#", // No specific review link provided in sources
       //   description: `<p class="text-gray-700">
       //     O <strong>Realme GT7</strong> se destaca pelo seu <strong>design sóbrio</strong> com acabamento em fibra especial e <strong>certificação IP69</strong>.
@@ -1206,7 +1206,7 @@ export const phoneData: PhoneData = {
       // },
       {
         name: "Realme GT 6",
-        image_link: "assets/images/phones/asus/realme_GT_6.webp", // Placeholder image
+        image_link: "https://dteot7rs7ynbper3.public.blob.vercel-storage.com/assets/images/phones/asus/realme_GT_6.webp", // Placeholder image
         reviews_links:
           "https://www.tudocelular.com/realme/fichas-tecnicas/n10692/Realme-GT-6.html",
         description: `<p class="text-gray-700">
