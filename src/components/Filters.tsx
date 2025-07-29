@@ -21,12 +21,12 @@ const Filters = ({ activeFilters, onFilterClick }: FiltersProps) => {
       <h2 className="text-xl font-semibold text-center mb-4">
         O que é mais importante para você?
       </h2>
-      <div className="flex flex-wrap justify-center gap-2 md:gap-4">
+      <div className="flex flex-wrap justify-center gap-1.5 sm:gap-2 md:gap-4 max-w-4xl mx-auto">
         {FILTERS.map(({ key, label }) => (
           <button
             key={key}
             onClick={() => onFilterClick(key)}
-            className={`filter-btn py-2 px-4 rounded-full text-sm md:text-base font-medium ${
+            className={`filter-btn py-1.5 px-2.5 sm:py-2 sm:px-4 rounded-full text-xs sm:text-sm md:text-base font-medium whitespace-nowrap ${
               activeFilters.has(key) ? "active" : ""
             }`}
           >
