@@ -31,7 +31,12 @@ const BrandsGrid = ({
           const isDimmed = activeFilters.size > 0 && !hasActiveFilter;
           const isHighlighted = key === selectedBrandKey;
 
-          const cardClasses = `brand-card cursor-pointer p-4 bg-white rounded-lg flex items-center justify-center h-24 text-center ${
+          // Count how many selected strengths this brand has
+          const matchingStrengthsCount = brand.strengths.filter((strength) =>
+            activeFilters.has(strength)
+          ).length;
+
+          const cardClasses = `brand-card cursor-pointer p-4 bg-white rounded-lg flex items-center justify-center h-24 text-center relative ${
             isDimmed ? "dimmed" : ""
           } ${isHighlighted ? "highlight" : ""}`;
 
@@ -42,6 +47,14 @@ const BrandsGrid = ({
               onClick={() => onBrandClick(key)}
             >
               <h3 className="font-bold text-gray-800 text-lg">{brand.logo}</h3>
+              {activeFilters.size > 0 && matchingStrengthsCount > 0 && (
+                <div
+                  className="absolute -top-2 -right-2 text-white text-xs font-bold rounded w-12 h-6 flex items-center justify-center"
+                  style={{ backgroundColor: "rgba(191, 114, 69, 1)" }}
+                >
+                  {`${matchingStrengthsCount} / ${activeFilters.size}`}
+                </div>
+              )}
             </div>
           );
         })}
